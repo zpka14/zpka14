@@ -1,4 +1,6 @@
-### Hi there 👋
+### Kim Jaejun's GitHub 🖐🏻
+- 🔭 I’m currently working on ...
+- My Blog : https://velog.io/@mongu_93
 
 <!--
 **zpka14/zpka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
