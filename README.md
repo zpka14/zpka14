@@ -1,5 +1,5 @@
 ### Kim Jaejun's GitHub 🖐🏻
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Biztech_I...
 - My Blog : https://velog.io/@mongu_93
 
 <!--
