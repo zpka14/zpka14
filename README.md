@@ -1,7 +1,8 @@
 ### Kim Jaejun's GitHub 🖐🏻
-- 🔭 I’m currently working on Biztech_I <br><img src="https://img.shields.io/badge/jaejun31@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+- 🔭 I’m currently working on Biztech_I <br>
 <br>
-<a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"></a><br>
+<img src="https://img.shields.io/badge/jaejun31@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+<a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"></a>
 <a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white"></a><br>
 
 <!--
