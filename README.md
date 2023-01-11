@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Biztech_I <br>
 <br>
 <a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"></a>
-
+<a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white"></a>
 <!--
 **zpka14/zpka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
