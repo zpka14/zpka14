@@ -1,7 +1,7 @@
 ### Kim Jaejun's GitHub 🖐🏻
 - 🔭 I’m currently working on Biztech_I
 - My Blog : 
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=social&logo=Velog&logoColor=white"/></a>
 
 <!--
