@@ -1,6 +1,6 @@
 ### Kim Jaejun's GitHub 🖐🏻
 - 🔭 I’m currently working on Biztech_I
-- <a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"></a>
+<a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"></a>
 
 <!--
 **zpka14/zpka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
