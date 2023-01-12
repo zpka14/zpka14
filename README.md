@@ -6,7 +6,7 @@
 안녕하세요~~ 🤗 늘 새롭고 재미난 것을 배워보고 싶은 2년차 주니어 개발자입니다. 
 <br><br>
 
-📬 E-Mail : <a href="#"><img src="https://img.shields.io/badge/jaejun31@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a><br><br>
+📬 E-Mail : <a href="#"><img src="https://img.shields.io/badge/jaejun31@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a><br>
 
 📝 Blog <br>
 - <a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"></a>
