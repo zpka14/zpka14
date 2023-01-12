@@ -3,7 +3,7 @@
 - 💻 I'm currently using Java & JavaScript language and Spring Framework
 - 🌱 I’m currently learning Kotlin, NoSQL, React, etc..
 <br>
-📬 E-Mail <br>
+📬 E-Mail <br><br>
 <a href="#"><img src="https://img.shields.io/badge/jaejun31@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a><br><br>
 
 📝 Blog <br>
