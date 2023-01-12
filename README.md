@@ -8,7 +8,7 @@
 <a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=black"></a>
 <a href="https://velog.io/@mongu_93" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white"></a><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpka14&show_icons=true&theme=vue)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpka14&show_icons=true&theme=dark)
 <!--
 **zpka14/zpka14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
